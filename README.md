@@ -1,8 +1,8 @@
 ## Simple Calculator Using Javascript
 
-#Technology Used
+##Technology Used
 
-HTML
-CSS
-Javascript
+#HTML
+#CSS
+#Javascript
 
